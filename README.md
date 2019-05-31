@@ -1,5 +1,5 @@
 # febintj
-# PostMortem/Root Cause Analysis of the AES EDI jira (AESEDI-53447 #465)
+# PostMortem/Root Cause Analysis of the AES EDI jira (AESEDI-53447)
 
 ## Date
 2019-05-31
